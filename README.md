@@ -1,4 +1,4 @@
 # localizationDemo
 
-Demo project of iOS localization
+Demo project of iOS app localization
 
