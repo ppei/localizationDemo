@@ -1,6 +1,6 @@
 //
-//  LocalDemoTests.swift
-//  LocalDemoTests
+//  localDemoTests.swift
+//  localDemoTests
 //
 //  Created by Pei Pei on 2015-08-12.
 //  Copyright (c) 2015 Pei Pei. All rights reserved.
@@ -9,7 +9,7 @@
 import UIKit
 import XCTest
 
-class LocalDemoTests: XCTestCase {
+class localDemoTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

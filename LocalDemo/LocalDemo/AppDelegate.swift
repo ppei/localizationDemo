@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  LocalDemo
+//  localDemo
 //
 //  Created by Pei Pei on 2015-08-12.
 //  Copyright (c) 2015 Pei Pei. All rights reserved.
